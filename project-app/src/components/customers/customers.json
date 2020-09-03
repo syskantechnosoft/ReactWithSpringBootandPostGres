@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "firstName": "Sundar",
+        "lastName": "Pitchai",
+        "email": "sundar.pitchai@google.com"
+    },
+    {
+        "id": 2,
+        "firstName": "Satya",
+        "lastName": "Naella",
+        "email": "satya.nadella@microsoft.com"
+    },
+    {
+        "id": 3,
+        "firstName": "Super",
+        "lastName": "Man",
+        "email": "super.man@microsoft.com"
+    },
+    {
+        "id": 4,
+        "firstName": "Spider",
+        "lastName": "Man",
+        "email": "spider.man@marvel.com"
+    },
+    {
+        "id": 5,
+        "firstName": "Iron",
+        "lastName": "Man",
+        "email": "iron.man@marvel.com"
+    },
+    {
+        "id": 6,
+        "firstName": "Ant",
+        "lastName": "Man",
+        "email": "ant.man@marvel.com"
+    }
+]
